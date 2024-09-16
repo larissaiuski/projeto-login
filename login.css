@@ -7,9 +7,9 @@ html, body{
 body{
     background-color: rgb(128, 228, 228);
     display: flex; /*comportamento do elemento na página*/
-    font-family: Verdana;
+   font-family: Verdana;
 }
-
+ 
 /*Estilização do container*/
 .container{
     display: flex;
